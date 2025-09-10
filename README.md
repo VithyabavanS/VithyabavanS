@@ -95,9 +95,9 @@
 ## <div align="center">📊 GitHub Stats</div>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vithyabavan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vithyabavan&layout=compact&theme=github_dark&hide_border=true)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vithyabavan&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vithyabavan&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vithyabavan&layout=compact&theme=github_dark&hide_border=true&langs_count=6)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vithyabavan&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
