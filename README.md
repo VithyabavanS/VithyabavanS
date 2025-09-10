@@ -95,9 +95,9 @@
 ## <div align="center">📊 GitHub Stats</div>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vithyabavan&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vithyabavan&layout=compact&theme=github_dark&hide_border=true&langs_count=6)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vithyabavan&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VithyabavanS&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VithyabavanS&layout=compact&theme=github_dark&hide_border=true&langs_count=6)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VithyabavanS&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -119,7 +119,7 @@
 
 ## <div align="center">🌐 Connect With Me</div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/vithyabavan-sunthareswaran/">
+  <a href="https://www.linkedin.com/in/vithyabavan-sunthareswaran-a142b3376/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/VithyabavanS">
@@ -131,7 +131,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/your-cv-link" target="_blank">
+  <a href="https://drive.google.com/file/d/1UNonLr1an-2BOLaOIEITj3k-ixodTkyC/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-%23007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
