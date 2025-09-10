@@ -112,7 +112,7 @@
 
 ## <div align="center">📈 Contribution Graph</div>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vithyabavan&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VithyabavanS&theme=github-compact&hide_border=true" />
 </p>
 
 ---
@@ -122,7 +122,7 @@
   <a href="https://www.linkedin.com/in/vithyabavan-sunthareswaran/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/vithyabavan">
+  <a href="https://github.com/VithyabavanS">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:vithyabavans2001@gmail.com">
@@ -142,6 +142,6 @@
 
 ### 💡 "Code with purpose. Build with impact. Learn continuously."
 
-![Profile Views](https://komarev.com/ghpvc/?username=vithyabavan&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=VithyabavanS&color=brightgreen&style=for-the-badge)
 
 </div>
