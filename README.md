@@ -258,8 +258,10 @@ Vithyabavan Sunthareswaran
 ## <div align="center">📊 GitHub Stats</div>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VithyabavanS&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VithyabavanS&layout=compact&theme=github_dark&hide_border=true&langs_count=6)  
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VithyabavanS&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -298,6 +300,16 @@ Vithyabavan Sunthareswaran
     <img src="https://img.shields.io/badge/View%20My%20CV-%23007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+
+### 💡 "Code with purpose. Build with impact. Learn continuously."
+
+![Profile Views](https://komarev.com/ghpvc/?username=VithyabavanS&color=brightgreen&style=for-the-badge)
+
+</div>
 
 ---
 
