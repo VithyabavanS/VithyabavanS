@@ -275,11 +275,6 @@ Vithyabavan Sunthareswaran
   <img src="https://img.shields.io/badge/🎓_First_Class_Honours-BEng_Software_Engineering-green?style=for-the-badge"/>
 </p>
 
-## <div align="center">📈 Contribution Graph</div>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VithyabavanS&theme=github-compact&hide_border=true" />
-</p>
-
 ---
 
 ## <div align="center">🌐 Connect With Me</div>
@@ -310,13 +305,6 @@ Vithyabavan Sunthareswaran
 ![Profile Views](https://komarev.com/ghpvc/?username=VithyabavanS&color=brightgreen&style=for-the-badge)
 
 </div>
-
----
-
-<div align="center">
-
-### 💡 "Code with purpose. Build with impact. Learn continuously."
-
 ![Profile Views](https://komarev.com/ghpvc/?username=VithyabavanS&color=brightgreen&style=for-the-badge)
 
 </div>
