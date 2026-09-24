@@ -305,6 +305,6 @@ Vithyabavan Sunthareswaran
 ![Profile Views](https://komarev.com/ghpvc/?username=VithyabavanS&color=brightgreen&style=for-the-badge)
 
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=VithyabavanS&color=brightgreen&style=for-the-badge)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=VithyabavanS&color=brightgreen&style=for-the-badge) -->
 
 </div>
