@@ -1,56 +1,152 @@
-# Hi, I'm Vithyabavan 👋
+<div align="center">
 
-**AI / ML Engineer · NLP for low-resource languages · Colombo, Sri Lanka**
+<h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight:bold;">
+<span style="color:#4CAF50; text-shadow: 0 0 4px #4CAF50, 0 0 6px #4CAF50;">
+Vithyabavan Sunthareswaran
+</span>
+</h1>
 
-I build and ship NLP and LLM systems. At **ExentAI** I work on Tamil NLP at scale: OCR text pipelines over **6M+ pages**, fine-grained NER, and retrieval/reranking inference optimized with **ONNX + INT8**. Before that, I built **15+ production REST APIs** for core banking at Hatton National Bank.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions+%26+AI+Systems;Full+Stack+Developer+%26+ML+Engineer;Enterprise+Applications+Specialist;Code.+Learn.+Impact." alt="Typing Animation" />
 
-## 🔭 Right now
+</div>
 
-- 🧠 **ML Engineer Trainee @ ExentAI**: Tamil NLP pipelines, NER fine-tuning, retrieval and reranking
-- 🚧 Upgrading **[StudyAI](https://github.com/VithyabavanS/study-ai)** into a bilingual Tamil/English study assistant: evaluated, containerized and deployed
-- 📚 Learning: RAG evaluation, MLOps and cloud deployment
+---
+## 🧭 About Me
 
-## 🛠️ Tech I work with
+🎓 &nbsp;**BEng (Hons) Software Engineering - First Class** @ University of Westminster  
+💼 &nbsp;Experienced in **Enterprise Applications**, **Machine Learning**, and **Full Stack Development**  
+🏦 &nbsp;Former **Software Engineering Intern** @ Hatton National Bank  
+🧠 &nbsp;Passionate about **Explainable AI**, **Bilingual Web Applications**, and **Clean Architecture**  
 
-**AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+🤝 &nbsp;**Specialized in**:
+- 🏢 Enterprise-grade Banking Applications  
+- 🧠 Medical AI & Explainable Machine Learning  
+- 🌐 Bilingual Web Platforms & Content Management  
+- 📊 Data Analytics & Business Intelligence  
+
+## <div align="center">🚀 Technologies & Tools</div>
+
+### <div align="center">🧠 Programming Languages</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-**Backend & Web**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+### <div align="center">🌐 Frontend & Backend Technologies</div>
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## 🏆 Featured projects
+### <div align="center">🤖 Machine Learning & AI</div>
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[StudyAI](https://github.com/VithyabavanS/study-ai)** 🚧 | RAG document assistant, being upgraded to bilingual Tamil/English with hybrid retrieval, reranking, evaluation and deployment | Python, LangChain, ChromaDB |
-| **Alz-InsightNet** | Explainable multimodal (MRI/PET) Alzheimer's detection with Grad-CAM, LIME and Integrated Gradients; presented at Cutting Edge 2025 | TensorFlow, Optuna, Flask, React |
-| **Uyirmai** | Bilingual (Tamil/English) organization website with a headless CMS for non-technical staff | React, TypeScript, TinaCMS |
+### <div align="center">🗄️ Databases & Analytics</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jasper_Reports-0052CC?style=for-the-badge&logo=jasper&logoColor=white"/>
+</p>
 
-## 🎓 Recognition
+### <div align="center">🛠️ Development Tools & Platforms</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/TinaCMS-EC4815?style=for-the-badge&logo=tinacms&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
 
-- BEng (Hons) Software Engineering, **First Class Honours** (CGPA 3.73), University of Westminster / IIT
-- **Cutting Edge 2025**: presented Alz-InsightNet at IIT's project showcase
-- **NSF Sri Lanka**: selected in the first round of the National Science Foundation research program
+---
 
-## 📫 Connect
+## <div align="center">🏆 Featured Projects</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vithyabavan-sunthareswaran-a142b3376/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vithyabavans2001@gmail.com)
-[![CV](https://img.shields.io/badge/View_CV-007ACC?style=flat&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1UNonLr1an-2BOLaOIEITj3k-ixodTkyC/view?usp=sharing)
+### 🏥 Alz-InsightNet: Explainable AI for Medical Diagnosis
+**Technologies:** Python, TensorFlow, Keras, ResNet50, DenseNet201, Grad-CAM, LIME, React, Flask  
+**Achievement:** 99.63% MRI classification accuracy with explainable AI for clinical transparency
+
+### 🌱 Uyirmai: Bilingual Permaculture Platform  
+**Technologies:** React, TypeScript, TinaCMS, Tailwind CSS  
+**Features:** Tamil/English language switching, headless CMS, responsive design
+
+### 🏦 BAMAS: Banking Management System Enhancement
+**Technologies:** Java, Spring Boot, Angular, Oracle SQL, Jasper Reports  
+**Impact:** Enhanced core pawning system serving multiple bank branches
+
+---
+
+## <div align="center">📊 GitHub Stats</div>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vithyabavan&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vithyabavan&layout=compact&theme=github_dark&hide_border=true&langs_count=6)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vithyabavan&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VithyabavanS&show_icons=true&theme=github_dark&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VithyabavanS&layout=compact&theme=github_dark&hide_border=true&langs_count=6)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VithyabavanS&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## <div align="center">🏆 Achievements & Recognition</div>
+<p align="center">
+<img src="https://img.shields.io/badge/🏆_Cutting_Edge_2025-Selected_for_AI_Research-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆_NSF--SL-First_Round_Selection-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_First_Class_Honours-BEng_Software_Engineering-green?style=for-the-badge"/>
+</p>
+
+## <div align="center">📈 Contribution Graph</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VithyabavanS&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## <div align="center">🌐 Connect With Me</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vithyabavan-sunthareswaran/">
+  <a href="https://www.linkedin.com/in/vithyabavan-sunthareswaran-a142b3376/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/VithyabavanS">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:vithyabavans2001@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/your-cv-link" target="_blank">
+  <a href="https://drive.google.com/file/d/1UNonLr1an-2BOLaOIEITj3k-ixodTkyC/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/View%20My%20CV-%23007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Code with purpose. Build with impact. Learn continuously."
+
+![Profile Views](https://komarev.com/ghpvc/?username=VithyabavanS&color=brightgreen&style=for-the-badge)
+
+</div>
